@@ -1,4 +1,4 @@
-greet = "hello world"
+greet = "hello sir"
 print(greet)
 print(type(greet))
 num = 10
